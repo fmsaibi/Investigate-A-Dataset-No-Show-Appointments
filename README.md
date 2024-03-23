@@ -106,3 +106,10 @@ conda install --file requirements.txt
 ```
 
 ## Run the application
+
+To run Jupyter Notebook server and access the file, run the following command
+
+```bash
+#!/bin/bash
+jupyter notebook
+````
