@@ -92,7 +92,7 @@ In the virtual environment created in the previous step, type the following comm
 
 ```bash
 #!/bin/bash
-git clone https://gitlab.com/fmsaibi/investigate-a-dataset-no-show-appointments.git
+git clone https://github.com/fmsaibi/Investigate-A-Dataset-No-Show-Appointments.git
 cd investigate-a-dataset-no-show-appointments
 ```
 
